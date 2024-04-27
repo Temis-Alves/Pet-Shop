@@ -1,0 +1,45 @@
+Visão geral da estrutura da página (como as seções serão divididas)
+O site será uma página simples com sete seções:
+
+Seção Banner;
+Seção Serviços;
+Faixa das redes sociais;
+Seção Marcas;
+Faixa das redes sociais;
+Seção Onde estamos;
+Seção Rodapé.
+
+Visão geral de cada seção
+
+1 - Na seção banner teremos os seguintes elementos:
+
+Uma imagem como plano de fundo;
+Uma imagem (logo);
+O nome do Pet Shop;
+O slogan do Pet Shop;
+Um Título;
+Um link externo.
+
+2 - Já a seção serviços terá como parte da estrutura os seguintes elementos:
+
+Um subtítulo;
+Uma lista;
+Cinco imagens ilustrando os serviços.
+
+3 - As duas faixas das redes sociais terão a mesma estrutura, porém, com textos diferentes:
+
+Um Texto;
+Três links externos com imagem.
+
+4 - Já a seção marcas terá como parte da estrutura os seguintes elementos:
+
+Um Subtítulo;
+12 imagens.
+
+5 - A seção "Onde Estamos" terá como parte da estrutura os seguintes elementos:
+
+Um Subtítulo;
+Um texto;
+Um mapa.
+
+6 - Na seção rodapé, nossa última seção, terá como parte da estrutura um texto informativo com o nome do desenvolvedor do site.
